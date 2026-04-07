@@ -1,0 +1,5 @@
+./BE/node_modules/
+./FE/V1/Frontend/node_modules/
+./BE_MySQL
+./FE/V1/Frontend/dist/
+./FE/V1/Frontend/build/
